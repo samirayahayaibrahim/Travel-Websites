@@ -158,3 +158,62 @@ h3{
 .About{
     align-items: center;
 }
+
+.item1,.item3{
+    background-color: white;
+    margin-inline: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top:20px ;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border-top: 2px solid #25A59E;
+    height: 280px;
+    width: 100%;
+    color: #262626;
+
+}
+.item2{
+    
+    background-color:#25A59E;
+    margin-inline: 20px;
+    padding-left: 2px;
+    padding-right: 2px;
+    padding-top:20px ;
+    padding-bottom: 50px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    height: 280px;
+    background-size: 40px;
+    width: 100%;
+
+}
+
+.support{
+    font-size: 35px;
+    font-family: "gilda display"; 
+    color: #262626;                                                              
+}
+.more{
+    color:#25A59E;
+    margin-left: 180px;
+    font-size: 20px;
+    display: flex;
+}
+.special{ 
+    font-size: 35px;
+    font-family: "gilda display";
+    color: white;
+}
+.details{
+    color: white;
+    margin-left: 200px;
+    display: flex;
+    font-size: 20px;
+
+}
+.tickets{
+    font-family: "urbanist";
+    color: white;
+}
