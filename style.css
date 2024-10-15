@@ -24,6 +24,9 @@ body{
     justify-content: right;
     margin-right: 20px;
 }
+.h1,.span{
+    font-family:'Gilda display' ;
+}
 .head-2{
     display: flex;
     justify-content: center;
@@ -208,7 +211,8 @@ h3{
 .support{
     font-size: 35px;
     font-family: "gilda display";        
-    color: #262626;                                                              
+    color: #262626;  
+    margin-right: 15px;                                                            
 }
 .more{
     color:#25A59E;
@@ -220,6 +224,7 @@ h3{
     font-size: 35px;
     font-family: "gilda display";
     color: white;
+    margin-right: 15px;
 }
 .details{
     color: white;
@@ -291,5 +296,30 @@ h3{
     padding-bottom: 2px;
     margin-left: 15px;
     flex-direction: column;
+}
+
+.watch{
+    text-align: center;
+    padding-bottom:5px;
+    padding-top: 5px;
+    background-size: 30px;
+    color: #262626;
+    margin: 5px;
+    font-size: 65px;
+
+}
+.Video{
+    position:absolute ;
+    width: 100%;
+    size: 50px;
+    margin-left: -20px;
+
+}
+.play{
+    position: relative; 
+    align-content: center;
+    height: 50px;
+    margin-top: 80px;
+    margin-left: 180px;
 }
 
