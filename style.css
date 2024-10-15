@@ -213,7 +213,7 @@ h3{
     font-family: "gilda display";        
     color: #262626;  
     margin-right: 15px;                                                            
-}
+}               
 .more{
     color:#25A59E;
     margin-left: 180px;
@@ -322,4 +322,46 @@ h3{
     margin-top: 80px;
     margin-left: 180px;
 }
+
+.Click1{
+    display: flex;
+    margin-top: 205px;                             
+}
+.click{
+    justify-content: left;
+    margin-bottom: -50px;
+    margin-top: 5px;
+    margin-left:-350px;
+    padding-bottom:70px ;
+    padding-top:0px;
+}                       
+                    
+.offer{
+    
+    font-family: "gilda display";
+    font-size: 40px;
+    margin-left:-30px;
+    color: #262626;
+    margin-bottom: 0px;        
+    margin-top:   -80px;                      
+    margin-left: 5px;
+    flex: none;
+}
+                                                                            
+.agent{
+    margin-bottom: 50px;
+    font-size: 20px;
+    font-family: "urbanist";
+    margin-left: 75px;
+    color: #595959;
+}
+
+.s{
+    
+    font-family: "urbanist";
+    size: 30px;
+    color: #25A59E;
+    font-size: 40px;
+    margin-bottom: 190px;
+}                             
 
