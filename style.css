@@ -23,9 +23,11 @@ body{
     height: 25px;
     justify-content: right;
     margin-right: 20px;
+
 }
 .h1,.span{
-    font-family:'Gilda display' ;
+    font-family:"Gilda display";
+    font-size: 52px;
 }
 .head-2{
     display: flex;
@@ -103,14 +105,14 @@ h3{
     padding-bottom: 0;
     margin-top:-380px;                
     color: #262626;
-    font-size: 50px;
+    font-size: 40px;
     font-weight: 400;
     line-height: 52px;
     text-align: left;
 }    
 .choose{
     font-family: "urbanist";
-    font-size: 20px;                              
+    font-size: 16px;                              
     color: #262626;
     margin-bottom: 10px;            
     font-weight: 500;
@@ -151,11 +153,12 @@ h3{
 .locationside{
     margin-left: 20px;
     margin-top: 5px; 
-    color: #262626;                                                 
+    color: #262626;  
+    font-size: 16px;                                               
 }   
 .about{
     font-family: "gilda display";
-    font-size: 70px;
+    font-size: 40px;
     text-align: center;
     margin-top: 30px;
     margin-bottom: -190px;                    
@@ -167,6 +170,9 @@ h3{
 .About{
     align-items: center;
     overflow-x: hidden;
+}
+h4{
+    font-size: 20px;
 }
 
 .item1,.item3{
@@ -180,11 +186,10 @@ h3{
     margin-bottom: 20px;
     border-top: 2px solid #25A59E;
     height: 280px;
-    width: 100%;
+    font-size: 28px;
     color: #262626;
     overflow-x: hidden ;
     width:100%;
-    height: Hug (257px)px;
     padding: 28px 20px 32px 20px;
     gap: 40px;
     opacity: 0px;
@@ -206,41 +211,53 @@ h3{
     height: Hug (257px)px;
     padding: 28px 20px 32px 20px;
     gap: 40px;
+    font-size: 28px;
     opacity: 0px;
 }
 
 .support{
-    font-size: 35px;
-    font-family: "gilda display";        
+    font-size: 28px;
+    font-family: "Gilda display";        
     color: #262626;  
     margin-right: 15px;                                                            
 }               
 .more{
     color:#25A59E;
     margin-left: 180px;
-    font-size: 20px;
+    font-size: 15px;
     display: flex;
 }
 .special{               
-    font-size: 35px;
+    font-size: 28px;
     font-family: "gilda display";
     color: white;
-    margin-right: 15px;
+    margin-right: 16px;
 }
 .details{
     color: white;
     margin-left: 200px;
     display: flex;
-    font-size: 20px;                                             
+    font-size: 15px;                                             
 }
 .tickets{
     font-family: "urbanist";
     color: white;
-}                                  
+} 
+
+.Travel-2{
+    color: #25A59E;
+    justify-content: space-between;
+    overflow: hidden;
+    font-size: 40px;
+
+}
+p{
+    font-size: 16px;
+}                                
 
 .memory{
     font-family: "gilda display";                                                     
-    font-size: 20px; 
+    font-size: 40px; 
     margin-bottom: 10px;        
     font-weight: 100px;
     justify-content:space-around;
@@ -248,12 +265,11 @@ h3{
     margin-right: 5px;
     color: #262626;
     margin: 5px;
-    font-size: 70px;
     overflow-x: hidden;
 }
 .service{
     font-family: "urbanist";
-    font-size: 15px;    
+    font-size: 16px;    
     color: #262626;
     padding-top: 10px;
 
@@ -261,7 +277,7 @@ h3{
 .t{      
     
     font-family: "gilda display";
-    font-size: 30px;
+    font-size: 16px;
     color:#25A59E;                                                          
     margin-bottom: 200px;}
 
@@ -306,7 +322,7 @@ h3{
     background-size: 30px;
     color: #262626;
     margin: 5px;
-    font-size: 65px;
+    font-size: 40px;
 
 }
 .Video{
@@ -351,7 +367,7 @@ h3{
                                                                             
 .agent{
     margin-bottom: 50px;
-    font-size: 20px;
+    font-size: 16px;
     font-family: "urbanist";
     margin-left: 55px;
     color: #595959;
@@ -362,7 +378,7 @@ h3{
     font-family: "urbanist";
     size: 30px;
     color: #25A59E;
-    font-size: 40px;
+    font-size: 16px;
     margin-bottom: 190px;
 } 
 .contact{
@@ -374,7 +390,7 @@ h3{
     gap: 5px;  
 }
 .us{
-    font-size: 20px;
+    font-size: 16px;
     height: 5px;
     color: #595959; 
     font-family: "urbanist"; 
