@@ -1,10 +1,10 @@
-# Travel-Websites
+##Travel-Websites
 
 
 **Description**This project is a webpage designed with HTML/CSS,featuring a responsive layout and modern design elements.
 
 
-##Table of contents
+##Table of contents##                         
 
 1.[project name](Travel-wesite)
 
@@ -22,14 +22,14 @@
 
 8.[usage]
 
-9[media queries]
+9.[media queries]
 
-10[license]
+10.[license]
 
 11.[author(s)]
 
 
-##Overview
+##Overview##
 
 The project is build using HTML and CSS and providing a visually appealing and responsible layout for a web page.it include section such as:
 
@@ -46,12 +46,12 @@ The project is build using HTML and CSS and providing a visually appealing and r
 -offer section which contain header,images and paragraph.
 
 
-##Live server
+##Live server##
 
 -checkout the Live Demo of the project[live demo](https://travel-websites.onrender.com)
  
 
-##Technologies used
+##Technologies used##
 
 -HTML5
 
@@ -70,7 +70,7 @@ The project is build using HTML and CSS and providing a visually appealing and r
 -**flexbox layout**:ensure element are properly align and spaced,creating a balanced design.
 
 
-##setup instruction
+##setup instruction##
 
 1.**clone repository**:
 '''bash
@@ -83,13 +83,13 @@ The project is build using HTML and CSS and providing a visually appealing and r
   "index.html".
 
   
-##usage
+##usage##
 -the css.file("style.css")to style the html file.
 
 -to make any adjustment,edit the style.css
 
 
-##key HTML structure
+##key HTML structure##
 
 here are some basic key structure of the HTML structure
 
@@ -102,7 +102,7 @@ here are some basic key structure of the HTML structure
 -4th section is the last section
 
 
-##license
+##license##     
 
 the project is licensed under MIT LICENSE
 
@@ -115,6 +115,7 @@ the project is licensed under MIT LICENSE
 ##Email##
 
 **samirayahayaibraheem@gmail.com**
+
 ##Github##
 
 **https://github.com/samirayahayaibrahim** 
