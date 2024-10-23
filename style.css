@@ -61,6 +61,7 @@ h1{
     position: relative;
     transform: translateY(50%);
     margin-bottom: -200px;
+    margin-left: 22px;
 
 }   
 .travel1{
@@ -158,7 +159,7 @@ h3{
     flex-direction: column;                     
     align-items: center;
     inset-block: 5px;                                  
-    margin-left: 20px;
+    margin-left: 25px;
     margin-right: 20px;  
     height: 1096px;
     margin-top:0px;
@@ -299,10 +300,9 @@ h4{
     color: #595959;
     text-align: center;
     padding-left: 50px;
+    margin-left: 20px;
 
 }
-
-
 .Travel-2{
     color: #25A59E;
     justify-content: space-between;
