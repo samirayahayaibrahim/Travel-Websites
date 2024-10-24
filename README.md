@@ -1,5 +1,4 @@
 # Travel-Websites
-##Travel-Websites
 
 
 **Description**This project is a webpage designed with HTML/CSS,featuring a responsive layout and modern design elements.
@@ -111,7 +110,6 @@ the project is licensed under MIT LICENSE
 ##Author##
 
 **Samira Yahaya Ibrahim**
-
 
 ##Email
 

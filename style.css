@@ -68,14 +68,12 @@ h1{
     position: absolute;
     justify-content: center;                 
     font-weight: 50px;                                                                          
-    height: 211px;
+    height: 420px;
     gap: 0px;
     opacity: 0px;
-    size: 400%;
-    height: 600px;
     width: 100%;
     padding: 0px;
-    top:-400px; 
+    top:-195px; 
     z-index: 1;      
     overflow-x: hidden;             
     }                           
@@ -83,12 +81,12 @@ h1{
 .travel2{
     position :absolute;        
     justify-content:center;                                          
-    width:450px;                                                      
+    width:400px;                                                      
     gap: 20px;                                                      
     opacity: 0px;
     padding-top: 0px;                
     z-index: 2;  
-    margin-bottom: 30px;                                          
+    margin-top: 27px;                                          
                                                                                 
 }                                                                           
 .travel3 {                    
@@ -100,7 +98,7 @@ h1{
     width: 432.6px;
     height: 298px;
     top: 24px;
-    left: 16.8px;
+    left: 14.8px;
     gap: 0px;
     opacity: 0px;
     
@@ -120,7 +118,7 @@ h3{
     font-weight: 400px;
     line-height: 52px;
     text-align: left;
-    margin-left: 20px;
+    margin-left: 15px;
     margin-top: -20px;
 }    
 .choose{
@@ -133,7 +131,7 @@ h3{
     padding-top: -10px;
     height: 48px;
     width: 335px;
-    margin-left: 20px;
+    margin-left: 15px;
 
 
 }
@@ -166,10 +164,11 @@ h3{
     margin-bottom: 5px;
 }                                  
 .img2{   
-    width: 338.67px;
+    width: 272px;
 height: 248px;
 gap: 0px;
 opacity: 0px;
+overflow-y: hidden;
 }
 
 .item{
@@ -223,11 +222,10 @@ h4{
     border-top: 4px solid #25A59E;
     height: 257px;
     color: #262626;
-    width:335px;
+    width:290px;
     gap: 40px;
     opacity: 0px;
     padding: 28px,20px,32px,20px;
-    height: 257px ;
     padding-left:32px ;
     padding-bottom: 50px;
 
@@ -242,7 +240,7 @@ h4{
     margin: 20px;
     height: 280px;
     background-size: 40px;  
-    width: 335px;         
+    width: 290px;         
     height: 257px;
     gap: 40px;
     font-size: 28px;
@@ -260,7 +258,7 @@ h4{
 }               
 .more{
     color:#25A59E;
-    margin-left: 200px;
+    margin-left: 150px;
     font-size: 15px;
     display: flex;
     margin-top: 80px;
@@ -276,7 +274,7 @@ h4{
 }
 .details{
     color: white;
-    margin-left: 200px;
+    margin-left: 150px;
     display: flex;
     font-size: 15px; 
     margin-top: 80px; 
@@ -299,8 +297,8 @@ h4{
     gap: 0px;
     color: #595959;
     text-align: center;
-    padding-left: 50px;
-    margin-left: 20px;
+    padding-left: 30px;
+    margin-left: 10px;
 
 }
 .Travel-2{
@@ -398,12 +396,8 @@ p{
     margin-top: -30px;
 
 }
-.play{
-    position: relative; 
-    align-content: center;
-    height: 50px;
-    margin-top: 80px;
-    margin-left: 180px;
+.video{
+    margin-right: -30px;
 }
 
 .Click1{
